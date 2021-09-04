@@ -2,7 +2,7 @@
     <div class="demo-split">
         <Split v-model="split1" v-bind:min="min1">
             <div slot="left" class="demo-split-pane">
-                Left Pane
+                Left Pane1
             </div>
             <div slot="right" class="demo-split-pane">
                 Right Pane
